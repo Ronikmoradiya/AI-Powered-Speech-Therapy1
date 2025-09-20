@@ -30,11 +30,4 @@ In this approach, speech analysis utilizes *Hidden Markov Models (HMM)* to detec
 
 **User Interface**:
 - *Customtkinter*: CustomTkinter is a tkinter extension which provides extra ui-elements like the CTkButton, which can be used like a normal tkinter.Button, but can be customized with a border and round edges.
-## Authors
-This project has been proposed and prepared by the team *Brainstormers*.
-#### Team leader
-* Janvee Singh
-#### Other team members
-* Nipun Dhiman
-* Jatin Panghal
-* Harsh Khandelwal
+
